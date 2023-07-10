@@ -76,6 +76,7 @@ function App() {
           <div className="text-5xl flex justify-center gap-3 py-3 text-gray-600 dark:text-gray-400">
             <FaDiscord />
             <p> : @domozzz</p>
+            dkfndefnlefn;ef
           </div>
           <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
             <img src={Avatar} />
